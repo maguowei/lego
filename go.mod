@@ -1,3 +1,3 @@
 module github.com/maguowei/lego
 
-go 1.17
+go 1.18
